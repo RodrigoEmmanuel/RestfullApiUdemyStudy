@@ -1,0 +1,13 @@
+C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\bin\Debug\netcoreapp2.1\RestfullApi.deps.json
+C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\bin\Debug\netcoreapp2.1\RestfullApi.runtimeconfig.json
+C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\bin\Debug\netcoreapp2.1\RestfullApi.runtimeconfig.dev.json
+C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\bin\Debug\netcoreapp2.1\RestfullApi.dll
+C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\bin\Debug\netcoreapp2.1\RestfullApi.pdb
+C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\obj\Debug\netcoreapp2.1\RestfullApi.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\obj\Debug\netcoreapp2.1\RestfullApi.RazorAssemblyInfo.cache
+C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\obj\Debug\netcoreapp2.1\RestfullApi.RazorAssemblyInfo.cs
+C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\obj\Debug\netcoreapp2.1\RestfullApi.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\obj\Debug\netcoreapp2.1\RestfullApi.AssemblyInfo.cs
+C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\obj\Debug\netcoreapp2.1\RestfullApi.RazorTargetAssemblyInfo.cache
+C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\obj\Debug\netcoreapp2.1\RestfullApi.dll
+C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\obj\Debug\netcoreapp2.1\RestfullApi.pdb
