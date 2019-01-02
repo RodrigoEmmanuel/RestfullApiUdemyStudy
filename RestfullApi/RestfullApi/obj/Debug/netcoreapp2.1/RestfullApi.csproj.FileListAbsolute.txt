@@ -11,3 +11,4 @@ C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\Restfull
 C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\obj\Debug\netcoreapp2.1\RestfullApi.RazorTargetAssemblyInfo.cache
 C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\obj\Debug\netcoreapp2.1\RestfullApi.dll
 C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\obj\Debug\netcoreapp2.1\RestfullApi.pdb
+C:\Users\rodri\Desktop\Estudar\Udemy\Restfull Api\RestfullApiUdemyStudy\RestfullApi\RestfullApi\obj\Debug\netcoreapp2.1\RestfullApi.csprojAssemblyReference.cache
